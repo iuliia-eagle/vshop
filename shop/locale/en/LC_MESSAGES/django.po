@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-02 19:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\shop\templates\shop\index.html:64
+msgid "Menu"
+msgstr "Menu"
+
+#: .\shop\templates\shop\index.html:69
+msgid "HomePage"
+msgstr "Home"
+
+#: .\shop\templates\shop\index.html:71 .\shop\templates\shop\index.html:73
+msgid "Shop"
+msgstr "Shop"
+
+#: .\shop\templates\shop\index.html:74
+msgid "Wishlist"
+msgstr "Wishlist"
+
+#: .\shop\templates\shop\index.html:75
+msgid "Single Product"
+msgstr "Single Product"
+
+#: .\shop\templates\shop\index.html:76
+msgid "Cart"
+msgstr "Cart"
+
+#: .\shop\templates\shop\index.html:77
+msgid "Checkout"
+msgstr "Checkout"
+
+#: .\shop\templates\shop\index.html:80
+msgid "About"
+msgstr "About"
+
+#: .\shop\templates\shop\index.html:81
+msgid "Blog"
+msgstr "Blog"
+
+#: .\shop\templates\shop\index.html:82
+msgid "Contact"
+msgstr "Contact"
+
+#: .\shop\templates\shop\index.html:666
+msgid "Have a Questions?"
+msgstr "Have a Questions?"
